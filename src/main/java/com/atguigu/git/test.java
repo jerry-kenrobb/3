@@ -7,6 +7,6 @@ public class test {
         System.out.println("hello,git3");
         System.out.println("master commit1");
         System.out.println("hot-fix commit1");
-        System.out.println("666");
+        int a = 1;
     }
 }
